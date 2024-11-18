@@ -1,0 +1,22 @@
+# Ignore configuration files
+tsconfig.json
+tsup.config.js
+
+# Ignore source files
+src/
+
+# Ignore environment files
+.env
+
+# Ignore test files
+*.test.ts
+*.spec.ts
+
+# Ignore build info files
+*.tsbuildinfo
+
+# Ignore macOS specific files
+.DS_Store
+
+# Ignore node_modules
+node_modules/

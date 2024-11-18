@@ -1,0 +1,26 @@
+{
+  "name": "md-parse-iter",
+  "version": "0.0.2",
+  "description": "Markdown Parser Iterator",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "homepage": "https://nextena.com/",
+  "repository": {
+    "url": "https://github.com/hcutcu/md-parse-iter"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "markdown parser",
+    "markdown iterator",
+    "markdown-it iterator"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.3.5",
+    "typescript": "^5.6.3"
+  }
+}
