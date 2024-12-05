@@ -2,6 +2,7 @@
   "compilerOptions": {
     "strict": true,
     "noImplicitAny": true,
+    "resolveJsonModule": true,
     "esModuleInterop": true,
     "strictNullChecks": true,
     "moduleResolution": "node",

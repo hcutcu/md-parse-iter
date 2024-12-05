@@ -1,0 +1,44 @@
+[
+  {
+    "type": "heading",
+    "variant": "h1",
+    "content": "HEADING LEVEL 1"
+  },
+  {
+    "type": "heading",
+    "variant": "h2",
+    "content": "HEADING LEVEL 2"
+  },
+  {
+    "type": "heading",
+    "variant": "h1",
+    "content": "Heading Level 1"
+  },
+  {
+    "type": "heading",
+    "variant": "h2",
+    "content": "HEADING LEVEL 2"
+  },
+  {
+    "type": "heading",
+    "variant": "h3",
+    "content": "HEADING LEVEL 3"
+  },
+  {
+    "type": "heading",
+    "variant": "h4",
+    "content": "HEADING LEVEL 4"
+  },
+
+  {
+    "type": "heading",
+    "variant": "h5",
+    "content": "HEADING LEVEL 5"
+  },
+
+  {
+    "type": "heading",
+    "variant": "h6",
+    "content": "HEADING LEVEL 6"
+  }
+]
