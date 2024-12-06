@@ -107,9 +107,6 @@ class MarkdownParser {
   }
 
   public async parseMarkdownFile(fileName: string) {
-    console.log('dirName file:', __dirname);
-    
-    
     const fileContent = await fs.readFile(fileName, 'utf-8');
     return this.parseMarkdownString(fileContent);
   }
