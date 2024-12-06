@@ -1,0 +1,2 @@
+A new paragraph shows emphasis on the text. now this is **bold** and this is *italic* and this is ***bold italic*** and this is ***`code-inline bold italic`***.  
+and also have a new line with a break.

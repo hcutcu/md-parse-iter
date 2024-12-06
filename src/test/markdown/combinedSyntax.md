@@ -19,3 +19,6 @@ This text is not going be separated by any breaks. Unless has 2 spaces at the en
 in a paragraph, you can have multiple lines of text.
 
 This is a new paragraph, as seen there is a blank line between the two paragraphs.
+
+A new paragraph shows emphasis on the text. now this is **bold** and this is _italic_ and this is **_bold italic_** and this is **_`code-inline bold italic`_**.  
+And also have a new line with a break.

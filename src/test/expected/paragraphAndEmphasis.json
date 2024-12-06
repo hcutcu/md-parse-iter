@@ -1,0 +1,60 @@
+[
+  {
+    "type": "paragraph",
+    "children": [
+      {
+        "type": "span",
+        "content": "A new paragraph shows emphasis on the text. now this is ",
+        "attributes": []
+      },
+      {
+        "type": "span",
+        "content": "bold",
+        "attributes": ["strong"]
+      },
+      {
+        "type": "span",
+        "content": " and this is ",
+        "attributes": []
+      },
+      {
+        "type": "span",
+        "content": "italic",
+        "attributes": ["em"]
+      },
+      {
+        "type": "span",
+        "content": " and this is ",
+        "attributes": []
+      },
+      {
+        "type": "span",
+        "content": "bold italic",
+        "attributes": ["em", "strong"]
+      },
+      {
+        "type": "span",
+        "content": " and this is ",
+        "attributes": []
+      },
+      {
+        "type": "span",
+        "content": "code-inline bold italic",
+        "attributes": ["code-inline", "em", "strong"]
+      },
+      {
+        "type": "span",
+        "content": ".",
+        "attributes": []
+      },
+      {
+        "type": "lineBreak"
+      },
+      {
+        "type": "span",
+        "content": "and also have a new line with a break.",
+        "attributes": []
+      }
+    ]
+  }
+]
