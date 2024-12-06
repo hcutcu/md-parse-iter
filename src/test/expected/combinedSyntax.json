@@ -66,5 +66,15 @@
         "attributes": []
       }
     ]
+  },
+  {
+    "type": "paragraph",
+    "children": [
+      {
+        "type": "span",
+        "content": "This is a new paragraph, as seen there is a blank line between the two paragraphs.",
+        "attributes": []
+      }
+    ]
   }
 ]
